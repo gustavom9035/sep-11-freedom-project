@@ -1,12 +1,13 @@
 # Tool Learning Log
 
-Tool: **Impact**
+Tool: **[Impact](https://impactjs.com)**
 
 Project: **Fighting Platformer**
 
 ---
 
-10/23/23 - 10/30/23:
+10/23/23 - 10/30/23:  
+
 * [Impact Documentation](https://impactjs.com/documentation)
 * [Installing and Learning](https://impactjs.com/documentation/getting-started)
 
@@ -30,7 +31,8 @@ Project: **Fighting Platformer**
 * [Create a Game](https://impactjs.com/documentation/video-tutorial-create-a-game)
 * [Working with Weltmeister](https://impactjs.com/documentation/video-tutorial-weltmeister)
 
-
+12/4/23 - 12/11/23
+* []()
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
